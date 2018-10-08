@@ -1,0 +1,31 @@
+.bar-geral1{
+	height: 0.7%;
+}
+
+.bar-geral{
+	height: 6%;
+	width: 93%;
+}
+
+.cinza{
+	color: gray;
+}
+
+.preto-bold{
+	color: black;
+	font-weight: bold;
+}
+
+.img-geral{
+	border-radius: 50%;
+	width:180%;
+}
+
+.desativado{
+	opacity: .6;
+}
+
+.badgetransp{
+	background-color: transparent;
+	color: green;
+}
